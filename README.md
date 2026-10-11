@@ -27,4 +27,4 @@ Working copy from my Historical Dev folder `VB/Old/Hotkey DLL`.
 
 ## License
 
-MIT (c) 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
+MIT (c) 2026 Vader Consulting for Dave Robinson's code. See `LICENSE`.
